@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ### Hi there, I'm Jean-Loris Gankpe gkp-dev👋
 
 ## I'm a Student, Developer in Efrei Paris !
