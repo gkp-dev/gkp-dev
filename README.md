@@ -3,13 +3,12 @@
 
 ## I'm a Student, Developer in Efrei Paris !
 
-- 🥅 2020 Goals: FULL STACK MERN
+- 🥅 2021 Goals: FULL STACK MERN
 - :green_heart:Mongodb for life
 - :chart: NodeJs
 - :cupid: Express
 - :ocean: ReactJs
 - 🔭 I am learning code with Mosh
-- 👯 Im looking for an internship for april (2 months)
 
 ### Spotify Playing 🎧
 
