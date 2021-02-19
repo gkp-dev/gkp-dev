@@ -3,7 +3,7 @@
 
 ## I'm a Student, Developer in Efrei Paris !
 
-- 🥅 2021 Goals: FULL STACK MERN
+- 🥅 2021 Goals: Cloud Developer
 - :green_heart:Mongodb for life
 - :chart: NodeJs
 - :cupid: Express
