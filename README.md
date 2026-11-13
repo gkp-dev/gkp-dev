@@ -1,75 +1,94 @@
 ### Bonjour, je suis Jean-Loris Gankpe 👋
 
-## 🚀 Spécialiste Sales Operations & Automatisation
-**Ex-Développeur Fullstack devenu Ops | J'automatise la croissance chez Les Sherpas**
+## 🚀 GTM Engineer · AI Applied Engineer
+**Développeur fullstack passé par les Sales Ops : je construis les agents IA et les systèmes qui font tourner les équipes Sales et CS.**
 
-Passionné par l'optimisation des processus et la data, je combine mon bagage technique (Dev Fullstack) avec une vision opérationnelle pour construire des systèmes de revenus scalables. Mon objectif ? Supprimer les tâches manuelles et fiabiliser la donnée.
-
----
-
-<div align="center">
-
-### 🌟 DÉCOUVRIR MON UNIVERS & MES PROJETS 🌟
-
-<a href="https://www.notion.so/Portfolio-Jean-Loris-GANKPE-2c14673b9d338080b31dd3a42cc1fcda">
-  <img src="https://img.shields.io/badge/🎨_Voir_Mon_Portfolio_Interactif-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio Jean-Loris" />
-</a>
-
-</div>
+Deux casquettes, un même métier : partir d'un vrai problème d'équipe (un CRM mal rempli, des appels perdus, des heures de saisie), et livrer un système en production qui le règle, puis le mesurer.
 
 ---
 
 ### ⚡ En ce moment
-* 🔭 **Poste actuel :** Sales Ops chez [Les Sherpas](https://sherpas.com/)
-* ⚙️ **Spécialité :** Migration de workflows vers **n8n**, Auto-hébergement d'infrastructures d'automatisation, Architecture CRM.
-* 🌱 **Apprentissage :** Agents IA avancés & Intégration de LLM dans les processus business.
-* 💬 **Sujets de discussion :** Automatisation (n8n/Make/Zapier), Logique CRM (HubSpot/Pipedrive) et Dockerisation d'outils Ops.
+* 🔭 **Poste actuel :** Sales Ops & AI dans une startup française d'IA conversationnelle
+* 🤖 **AI Engineer :** un agent Slack en production qui lit et écrit dans HubSpot (Python, Google ADK, Gemini avec repli sur Claude, Cloud Run, Vertex AI Agent Engine), suite d'évaluation rejouable de 36 scénarios, confirmation obligatoire avant chaque écriture
+* 📈 **GTM Engineer :** marché adressable de ~16 700 entreprises construit avec Clay et des sous-agents de recherche ; appels Fathom versés automatiquement dans HubSpot avec n8n ; référentiel Supabase synchronisé chaque nuit depuis le CRM
+* 🌱 **Je creuse :** déploiement d'agents sur Google Cloud, sécurité des agents (moindre privilège, prompt injection), évaluations
 
 ---
 
-### 🛠️ Stack Technique & Outils
+### 🛠️ Stack
 
-**Automatisation & CRM**
+**IA & agents**
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+</p>
+
+**GTM & automatisation**
+<p>
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clay-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/HubSpot-2E3F50?style=for-the-badge&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pipedrive-000000?style=for-the-badge&logo=pipedrive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pipedrive-017737?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 </p>
 
-**Ingénierie & Data**
+**Ingénierie & cloud**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=googlelookerstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 Projets Phares
+### 🏆 Projets
 
-| Projet | Stack | Description |
+**🤖 Agents IA en production**
+
+| Projet | Stack | Ce que ça fait |
 | :--- | :--- | :--- |
-| **🤖 Agent d'Actualité IA** | `n8n` `ElevenLabs` `Whatsapp API` | Agent IA autonome qui veille, résume et envoie l'actualité IA par note vocale WhatsApp. |
-| **🚗 Sécudrive** | `Base44` `Fullstack` | Application complète de sécurité routière (Projet de Master 2). |
-| **⚙️ DevOps pour Ops** | `Docker` `VPS Hostinger` | Hébergement et sécurisation d'une instance n8n sur un VPS Hostinger. |
+| **Agent CRM dans Slack** | `Python` `Google ADK` `Gemini` `Claude` `Cloud Run` `Vertex AI` | Toute l'entreprise (32 personnes) crée et met à jour contacts, leads, deals et tâches HubSpot en langage naturel, avec enrichissement Clay. Confirmation obligatoire avant chaque écriture, aucun outil de suppression, repli entre modèles, 36 scénarios d'évaluation rejoués avant chaque mise en production. |
+| **Agent de lecture des contrats** | `n8n` `Claude` `HubSpot` | Lit les contrats signés et remplit 44 champs du deal et de ses lignes de produits dans le CRM. |
+| **Voicebots et chatbots clients** | `IA vocale` `API` `Salesforce` | Agents vocaux et écrits branchés aux outils du client (Salesforce, API, n8n), avec passage de relais à un humain. Chez Les Sherpas : 500+ appels hors horaires par mois. |
+| **Agents de veille** | `n8n` `Gemini` `WhatsApp API` | Veille RH, juridique et économique résumée automatiquement, et note vocale IA hebdomadaire envoyée sur WhatsApp. |
 
-👉 **[Voir tous les détails et démos sur mon Portfolio](https://www.notion.so/Portfolio-Jean-Loris-GANKPE-2c14673b9d338080b31dd3a42cc1fcda)**
+**📈 Agents GTM et gestion du CRM**
+
+| Projet | Stack | Ce que ça fait |
+| :--- | :--- | :--- |
+| **Plateforme CRM interne** | `Next.js` `FastAPI` `Supabase` | Audit du CRM HubSpot, documentation des champs et formation des équipes, en français, anglais et arabe. Référentiel Supabase synchronisé chaque nuit depuis HubSpot, avec historique des changements. |
+| **Marché adressable** | `Clay` `sous-agents de recherche` | ~16 700 entreprises identifiées et enrichies pour la prospection. |
+| **Appels vers le CRM** | `n8n` `Fathom` `Aircall` `Gemini` | Chaque appel commercial est résumé et rattaché à la bonne fiche, dans HubSpot ou Pipedrive. 328 appels versés dans HubSpot. |
+| **Lecture de factures** | `n8n` `OpenAI` `PandaDoc` | Agent qui lit les factures d'un client du BTP et génère ses documents. |
+| **Hygiène du CRM** | `HubSpot` `n8n` | 50 000+ fiches restructurées, routage des leads, relances et synchronisation automatisés. |
+
+**🔧 Open source et outillage**
+
+| Projet | Stack | Ce que ça fait |
+| :--- | :--- | :--- |
+| **[pipedrive-mcp-server](https://github.com/gkp-dev/pipedrive-mcp-server)** | `TypeScript` `MCP` | Serveur MCP open source pour piloter Pipedrive depuis un assistant IA. |
+| **Skills Claude Code partagés** | `Claude Code` | Skills de prospection, de gestion du CRM et de création de démos pour les équipes Sales et CS, présentés en atelier à 11 personnes. |
+| **Migration Zapier → n8n** | `n8n` `Docker` | 50+ workflows migrés, environ 25 % de coûts d'exécution en moins. |
+
+👉 **[Démos et détails sur mon portfolio](https://portfolio.gkp-dev.com/)**
 
 ---
 
 ### 📫 Me contacter
 
-[<img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" />][portfolio]
+[<img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][portfolio]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
 
-[portfolio]: https://www.notion.so/Portfolio-Jean-Loris-GANKPE-2c14673b9d338080b31dd3a42cc1fcda
+[portfolio]: https://portfolio.gkp-dev.com/
 [linkedin]: https://www.linkedin.com/in/jean-loris-gankpe-b421921b2/
 [email]: mailto:gkprofessionel@gmail.com
